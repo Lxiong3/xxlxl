@@ -1,9 +1,3 @@
-1.to run the test, simply publish lf2u-1.0-SNAPSHOT.war on tomcat and begin.
-
-2.the source code is uploaded on github, the clone link is provided in the comment line of memo.
-
-3.the unit test coverage report is in project demo.
-
-4.have already generated backup file in /src/main/farm.sql for database which could be used to for testing locally.
-
-5.author is Lei Xiong<lxiong3@hawk.iit.edu>, all rights reserved.
+1.This is the earliest version of my project which is not runable.
+2.The final version is located in https://github.com/Lxiong3/CS445-project.
+3.because it contains too many small files I was not able to upload those .java files one by one, so I had to zip them into one file.I am so sorry for the incovenience that caused.
